@@ -1,6 +1,14 @@
 # EtcdCache
 IDistributedCache implementation for Etcd k/v store.
 
+It's a preview version, any feedback welcome.
+
+I still need to make a nuget out of it.
+
+### 1. Build
+
+Clone repository and build DLL. Include DLL in your projects.
+
 ### How to use
 
 Register with services:
