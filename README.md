@@ -1,9 +1,8 @@
-# EtcdCache
-IDistributedCache implementation for Etcd k/v store.
+# Microsoft IDistributedCache implementation for Etcd key value store
 
-It's a preview version, any feedback welcome.
-
-I still need to make a nuget out of it.
+- IDistributedCache implementation for Etcd k/v store.
+- It's a preview version, any feedback welcome.
+- I still need to make a nuget out of it.
 
 ### 1. Build
 
